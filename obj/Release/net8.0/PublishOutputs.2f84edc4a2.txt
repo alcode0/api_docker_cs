@@ -1,0 +1,12 @@
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\DockerApi.exe
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\appsettings.Development.json
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\appsettings.json
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\DockerApi.dll
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\DockerApi.deps.json
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\DockerApi.runtimeconfig.json
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\DockerApi.pdb
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2024-01\My\cs\Docker\DockerApp\DockerApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
